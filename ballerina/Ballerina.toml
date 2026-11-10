@@ -164,5 +164,5 @@ path = "./lib/netty-transport-native-kqueue-4.1.137.Final-osx-aarch_64.jar"
 [[platform.java21.dependency]]
 groupId = "org.json"
 artifactId = "json"
-version = "20251224"
-path = "./lib/json-20251224.jar"
+version = "20260814"
+path = "./lib/json-20260814.jar"
